@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<TilesList>
+  <Tile>
+    <Name>Accelerators</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.0</Version>
+    <Description>Helps you quickly perform your everyday browsing tasks without navigating to other websites to get things done</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Accelerators.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Accelerators.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>AccuWeatherTile</Name>
+    <Developer>Anatoly Sereda</Developer>
+    <Version>0.2</Version>
+    <Description>Displays current weather condition and forecast for tomorrow with Accu Weather</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/AccuWeatherTile.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/AccuWeatherTile.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>AeroXP</Name>
+    <Developer>Stealth</Developer>
+    <Version>Beta 3</Version>
+    <Description>Shows the latest forum posts on http://aeroxp.org</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/AeroXP.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Buddies</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.0</Version>
+    <Description>Lists your contacts from Windows Live Messenger and their status</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Buddies.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Buddies.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>BuddyList</Name>
+    <Developer>Anatoly Sereda</Developer>
+    <Version>1.0</Version>
+    <Description>Lists your contacts from Windows Live Messenger and their status</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/BuddyList.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/BuddyList.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Calc</Name>
+    <Developer>Stealth</Developer>
+    <Version>Beta 1</Version>
+    <Description>Allows you to perform simple calculations</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Calc.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Calc.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Clock</Name>
+    <Developer>Stealth</Developer>
+    <Version>Release Candidate 1</Version>
+    <Description>Shows nice clock on your LongBar</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Clock.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Clock.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>CommunicationHistory</Name>
+    <Developer>Daniel Kornev</Developer>
+    <Version>1.0</Version>
+    <Description>Displays last 8 emails from your Outlook Inbox folder, shows number of unread emails in Inbox and enables you to open item by double-clicking on it</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/CommunicationHistory.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/CommunicationHistory.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>DigitalClock</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.0</Version>
+    <Description>Shows nice digital clock on your LongBar</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Clock.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/DigitalClock.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>DiskInfo</Name>
+    <Developer>Tony</Developer>
+    <Version>1.0</Version>
+    <Description>Shows a graphical representation of the free space for each of your partitions</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/DiskInfo.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>DriveList</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.0</Version>
+    <Description>Shows a graphical representation of the free space for your hard and flash drives</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/DriveList.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>DriveMeter</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.0</Version>
+    <Description>Shows free space on hard drives</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/DriveMeter.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/DriveMeter.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Facebook</Name>
+    <Developer>Tony</Developer>
+    <Version>1.0</Version>
+    <Description>Displays your status, as well as any pokes, messages, or friend requests you might have</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Facebook.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Facebook.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>GisMeteo</Name>
+    <Developer>SiAVoL</Developer>
+    <Version>1.0</Version>
+    <Description>Shows the weather from http://www.gismeteo.ru</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/GisMeteo.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/GisMeteo.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>GoogleSearch</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.0</Version>
+    <Description>Provides quick access to google search</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/GoogleSearch.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/GoogleSearch.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Links</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.1</Version>
+    <Description>Allows you to add shortcuts to the most recently used programs and files</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Links.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>LockStatus</Name>
+    <Developer>Stealth</Developer>
+    <Version>Beta 1</Version>
+    <Description>Show you the Caps Lock, Num Lock and Scroll Lock indicators</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/LockStatus.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Multidesktop</Name>
+    <Developer>Tierro</Developer>
+    <Version>1.0</Version>
+    <Description>Allows you to switch between different desktops</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Multidesktop.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>NetMonitor</Name>
+    <Developer>Stealth</Developer>
+    <Version>2.0</Version>
+    <Description>Shows your network statistics</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/NetMonitor.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/NetMonitor.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Notes</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.0</Version>
+    <Description>Allows you to store some notes</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Notes.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Notes.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>OutlookCalendar</Name>
+    <Developer>Tony</Developer>
+    <Version>1.2</Version>
+    <Description>Shows the next 3 upcoming appointments from your Outlook Calendar</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/OutlookCalendar.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/OutlookCalendar.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>OutlookTasks</Name>
+    <Developer>Tony</Developer>
+    <Version>1.0</Version>
+    <Description>Shows a list of all incomplete tasks from your Outlook profile</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/OutlookTasks.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/OutlookTasks.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>PeopleNearMe</Name>
+    <Developer>Daniel Kornev</Developer>
+    <Version>0.7</Version>
+    <Description>Shows you number of people near you using "People Near Me" feature of Peer to Peer infrastructure of Windows Vista</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/PeopleNearMe.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/PeopleNearMe.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>PerformanceCounter</Name>
+    <Developer>Stealth</Developer>
+    <Version>Beta 1</Version>
+    <Description>Shows your CPU and memory usage statistics</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/PerformanceCounter.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>QuickLaunch</Name>
+    <Developer>Stealth</Developer>
+    <Version>Release Candidate 2</Version>
+    <Description>Allows you to add shortcuts to the most recently used programs and files</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/QuickLaunch.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/QuickLaunch.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Search</Name>
+    <Developer>Karl Wagner</Developer>
+    <Version>1.0</Version>
+    <Description>Allows you to search something on your computer</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Search.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Search.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>ShortcutList</Name>
+    <Developer>Tierro</Developer>
+    <Version>1.0</Version>
+    <Description>Displaying a list of shortcuts to the files you drag'n'drop there</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/ShortcutList.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>SlideShow</Name>
+    <Developer>Stealth</Developer>
+    <Version>Release Candidate 2</Version>
+    <Description>Shows slides with pictures from selected folder</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/SlideShow.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/SlideShow.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>SlideShowTile</Name>
+    <Developer>Tony</Developer>
+    <Version>1.1</Version>
+    <Description>Displays a random picture from your Pictures folder every 10 seconds</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/SlideShowTile.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/SlideShowTile.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>StickyNotes</Name>
+    <Developer>Anatoly Sereda</Developer>
+    <Version>0.3 alpha</Version>
+    <Description>Add a sticky note to your desktop or sidebar</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/StickyNotes.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/StickyNotes.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>SysTray</Name>
+    <Developer>Karl Wagner</Developer>
+    <Version>1.0</Version>
+    <Description>A tile that displays the content of the system tray</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/SysTray.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>TheVista</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.1</Version>
+    <Description>A tile that shows news from http://thevista.ru. Requires .NET Framework 3.0 SP1</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/TheVista.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/TheVista.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Trash</Name>
+    <Developer>Daniel Steiner</Developer>
+    <Version>1.0</Version>
+    <Description>A tile that allowes you to drag files and folders on it to move them to your recycle bin. This tile works just as in Longhorn</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Trash.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Trash.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Tray</Name>
+    <Developer>Stealth</Developer>
+    <Version>1.0</Version>
+    <Description>A tile that displays the content of the system tray. It doesn't hide tray from taskbar like previous System Tray tile</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Tray.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Twitter</Name>
+    <Developer>Stealth</Developer>
+    <Version>Beta 1</Version>
+    <Description>Shows updates from twitter</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Twitter.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>User</Name>
+    <Developer>Stealth</Developer>
+    <Version>Beta 1</Version>
+    <Description>Shows user defined icon and allows quickly restart, shutdown, logout</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/User.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/User.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>UTorrent</Name>
+    <Developer>SiAVoL</Developer>
+    <Version>1.0</Version>
+    <Description>Shows downloads and uploads for bittorent client uTorrent</Description>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/UTorrent.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Volume</Name>
+    <Developer>Tony</Developer>
+    <Version>1.03a</Version>
+    <Description>Allows you to adjust the system volume and toggle muting</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Volume.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Volume.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Weather</Name>
+    <Developer>Stealth</Developer>
+    <Version>Beta 1</Version>
+    <Description>Shows the weather forecast</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Weather.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Weather.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Welcome</Name>
+    <Developer>Panda X</Developer>
+    <Version>1.0</Version>
+    <Description>Simple welcome tile that sports the PDC03 user picture animation</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Welcome.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Welcome.tile</Link>
+  </Tile>
+  <Tile>
+    <Name>Wmp</Name>
+    <Developer>Anatoly Sereda</Developer>
+    <Version>Beta 1</Version>
+    <Description>Allows you to control your WMP from the sidebar</Description>
+    <Icon>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Icons/Wmp.png</Icon>
+    <Link>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/Wmp.tile</Link>
+  </Tile>
+</TilesList>
